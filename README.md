@@ -1,1 +1,1 @@
-# Survival-analysis---premature-CVD-mortality
+# Prognostic factors for premature cardiovascular disease mortality in Malaysia: A modelling approach using semi-parametric and parametric survival analysis with National Health and Morbidity Survey linked mortality data
