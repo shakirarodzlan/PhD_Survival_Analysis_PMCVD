@@ -2,8 +2,8 @@
 
 ## This is the data and Rcode used for the above article (under review)
 
-### The datasets analysed during the current study are available from the corresponding author on reasonable request. 
-### The R code for this analysis can be accessed here.
+## The datasets analysed during the current study are available from the corresponding author on reasonable request. 
+## The R code for this analysis can be accessed here.
 
 
 Abstract
