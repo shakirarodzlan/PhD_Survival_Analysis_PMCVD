@@ -1,9 +1,8 @@
 # Prognostic factors for premature cardiovascular disease mortality in Malaysia: A modelling approach using semi-parametric and parametric survival analysis with National Health and Morbidity Survey linked mortality data
 
-## This is the data and Rcode used for the above article (under review)
+## This is the data and Rcode used for the above article (under BMC journal review)
 
-## The datasets analysed during the current study are available from the corresponding author on reasonable request. 
-## The R code for this analysis can be accessed here.
+## The datasets analysed during the current study are available from the corresponding author on reasonable request. The R code for this analysis can be accessed here.
 
 
 Abstract
