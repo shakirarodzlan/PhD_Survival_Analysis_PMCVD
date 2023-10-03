@@ -2,6 +2,9 @@
 
 ## This is the data and Rcode used for the above article (under review)
 
+### The datasets analysed during the current study are available from the corresponding author on reasonable request. 
+### The R code for this analysis can be accessed here.
+
 
 Abstract
 Background: Cardiovascular disease (CVD) is the leading cause of premature mortality worldwide, with a pronounced impact in low- and middle-income countries. Despite existing research on CVD risk factors, the study of premature CVD mortality in Malaysia remains limited. This study employs survival analysis to model modifiable risk factors associated with premature CVD mortality among Malaysian adults. 
